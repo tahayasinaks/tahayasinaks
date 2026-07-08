@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.metmuseum.org/art/collection/search/435702">
+    <img 
+      src="https://cdn.cosmos.so/7525c502-2b9b-468e-b326-c3b22b3dd378?format=jpeg" 
+      alt="Gece Kuşları"
+      width="100%"
+      style="max-width:900px; border-radius:8px;"
+    />
+  </a>
+</p>
 
-<!--
-**tahayasinaks/tahayasinaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahayasinaks&color=0e75b6&style=flat" alt="profile views" />
+</p>
